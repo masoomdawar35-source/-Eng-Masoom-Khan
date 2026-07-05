@@ -3,7 +3,6 @@ Hi 👋, I'm Masoom Khan
 Frontend Web Developer | React Enthusiast |JavaScript Developer
 
 
-
 🚀 About Me.
 
 💻 Frontend Web Developer.
